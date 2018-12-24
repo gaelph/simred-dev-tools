@@ -1,4 +1,4 @@
-# simred-dev-tools [![NPM version](https://badge.fury.io/js/simred-dev-tools.svg)](https://npmjs.org/package/simred-dev-tools) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg) ![Tests](https://img.shields.io/badge/tests-22%2F22-brightgreen.svg) ![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)
+# simred-dev-tools [![NPM version](https://badge.fury.io/js/simred-dev-tools.svg)](https://npmjs.org/package/simred-dev-tools) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg) ![Tests](https://img.shields.io/badge/tests-4%2F4-brightgreen.svg) ![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)
 
 > Bindings to redux-dev-tools for Simred
 
