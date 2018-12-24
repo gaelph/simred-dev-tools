@@ -2,7 +2,7 @@
 
 > Bindings to redux-dev-tools for Simred
 
-If you do not know what Simred is, checkout [the project's GitHub page]()
+If you do not know what Simred is, checkout [the project's GitHub page](https://github.com/gaelph/simred)
 
 ## Installation
 
