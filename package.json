@@ -1,0 +1,40 @@
+{
+  "name": "simred-dev-tools",
+  "version": "1.0.0",
+  "description": "Bindings to redux devtools for Simred",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src --out-dir ./lib",
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "Simred",
+    "redux-dev-tools",
+    "state",
+    "management",
+    "debug"
+  ],
+  "author": "Gaël PHILIPPE",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-preset-esnext": "^1.1.3",
+    "babel-preset-react": "^6.24.1",
+    "jest": "^23.6.0",
+    "react-test-renderer": "^16.7.0"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}",
+      "!**/node_modules/**",
+      "!**/vendor/**"
+    ],
+    "coverageReporters": [
+      "html",
+      "text"
+    ]
+  }
+}
