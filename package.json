@@ -16,6 +16,11 @@
   ],
   "author": "Gaël PHILIPPE",
   "license": "MIT",
+  "homepage": "https://github.com/gaelph/simred-dev-tools",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaelph/simred-dev-tools.git"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
