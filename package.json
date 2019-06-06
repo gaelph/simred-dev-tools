@@ -1,6 +1,6 @@
 {
   "name": "simred-dev-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bindings to redux devtools for Simred",
   "main": "lib/index.js",
   "scripts": {
